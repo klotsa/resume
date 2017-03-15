@@ -1,0 +1,41 @@
+.contact {
+
+  background-color: #e6e6ff;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: Courier, "Lucida Console", monospace;
+  font-size: 2em;
+
+}
+
+.objective {
+  background-color: #c2c2d6;
+  opacity:0.5;
+  text-align: center;
+  padding: 10px;
+}
+
+.jobs {
+  background-color: #8c8cd9;
+  font-family: arial;
+  text-align: right;
+  padding: 10px;
+}
+
+.education {
+
+  font-size: 1em;
+  border-radius: 5px;
+  background-color: #d9d9f2;
+  padding: 10px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.job {
+  font-style: italic;
+  color: red;
+  font-weight: 600;
+}
